@@ -352,6 +352,12 @@
       "color1": 6,
       "color2": 12,
       "glow": true
-    }
+    },
+    {
+      "name": "BigAlex206",
+      "iconid": 1,
+      "color1": 3,
+      "color2": 12,
+      "glow": false
   ]
 }
